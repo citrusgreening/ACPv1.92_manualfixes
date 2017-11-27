@@ -1,26 +1,26 @@
-# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
-ScVcwli_3172|133511-133511	ScVcwli_3172	96.000	25	1	0	1	25	133367	133391	1.60e-06	41.7
-ScVcwli_3172|133514-133514	ScVcwli_3172	96.000	25	1	0	1	25	133370	133394	1.60e-06	41.7
-ScVcwli_3172|133580-133581	ScVcwli_3172	96.000	25	1	0	1	25	75527	75503	1.76e-06	41.7
-ScVcwli_3172|133585-133585	ScVcwli_3172	96.000	25	1	0	1	25	133441	133465	1.60e-06	41.7
-ScVcwli_3172|133658-133658	ScVcwli_3172	96.000	25	1	0	1	25	75449	75425	1.60e-06	41.7
-ScVcwli_3172|133661-133661	ScVcwli_3172	96.000	25	1	0	1	25	75446	75422	1.60e-06	41.7
-ScVcwli_3172|133766-133766	ScVcwli_3172	96.000	25	1	0	1	25	133622	133646	1.60e-06	41.7
-ScVcwli_3172|133769-133769	ScVcwli_3172	96.000	25	1	0	1	25	75338	75314	1.60e-06	41.7
-ScVcwli_3172|134022-134022	ScVcwli_3172	96.000	25	1	0	1	25	75085	75061	1.60e-06	41.7
-ScVcwli_3172|134029-134029	ScVcwli_3172	96.000	25	1	0	1	25	75078	75054	1.60e-06	41.7
-ScVcwli_3172|134628-134629	ScVcwli_3172	95.833	24	0	1	1	24	74483	74461	1.86e-05	38.1
-ScVcwli_3172|134636-134636	ScVcwli_3172	96.000	25	0	1	1	24	134492	134516	5.17e-06	39.9
-ScVcwli_3172|134652-134652	ScVcwli_3172	96.000	25	0	1	1	24	74462	74438	5.17e-06	39.9
-ScVcwli_3172|134659-134659	ScVcwli_3172	96.000	25	0	1	1	25	74455	74432	5.75e-06	39.9
-ScVcwli_3172|134714-134714	ScVcwli_3172	96.154	26	0	1	1	25	74400	74375	1.60e-06	41.7
-ScVcwli_3172|134718-134718	ScVcwli_3172	96.154	26	0	1	1	25	306475	306450	1.60e-06	41.7
-ScVcwli_3172|134730-134730	ScVcwli_3172	96.154	26	0	1	1	25	306461	306436	1.60e-06	41.7
-ScVcwli_3172|134735-134735	ScVcwli_3172	96.154	26	0	1	1	25	306456	306431	1.60e-06	41.7
-ScVcwli_3172|134745-134745	ScVcwli_3172	96.000	25	0	1	1	24	134601	134625	5.17e-06	39.9
-ScVcwli_3172|135115-135115	ScVcwli_3172	96.000	25	0	1	1	24	73995	73971	5.17e-06	39.9
-ScVcwli_3172|135121-135121	ScVcwli_3172	96.000	25	0	1	1	25	73989	73966	5.75e-06	39.9
-ScVcwli_3172|138567-138567	ScVcwli_3172	96.000	25	1	0	1	25	71195	71171	1.60e-06	41.7
-ScVcwli_3172|192312-192312	ScVcwli_3172	96.000	25	1	0	1	25	192165	192189	1.60e-06	41.7
-ScVcwli_3172|192318-192318	ScVcwli_3172	96.000	25	1	0	1	25	192171	192195	1.60e-06	41.7
-ScVcwli_3402|395641-395641	ScVcwli_3402	96.000	25	1	0	1	25	395664	395688	8.03e-07	43.6
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score												
+ScVcwli_3172|133511-133511	ScVcwli_3172	96	25	1	0	1	25	133367	133391	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|133514-133514	ScVcwli_3172	96	25	1	0	1	25	133370	133394	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|133580-133581	ScVcwli_3172	96	25	1	0	1	25	75527	75503	1.76E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|133585-133585	ScVcwli_3172	96	25	1	0	1	25	133441	133465	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|133658-133658	ScVcwli_3172	96	25	1	0	1	25	75449	75425	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|133661-133661	ScVcwli_3172	96	25	1	0	1	25	75446	75422	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|133766-133766	ScVcwli_3172	96	25	1	0	1	25	133622	133646	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|133769-133769	ScVcwli_3172	96	25	1	0	1	25	75338	75314	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|134022-134022	ScVcwli_3172	96	25	1	0	1	25	75085	75061	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|134029-134029	ScVcwli_3172	96	25	1	0	1	25	75078	75054	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|134628-134629	ScVcwli_3172	95.833	24	0	1	1	24	74483	74461	1.86E-05	38.1	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|134636-134636	ScVcwli_3172	96	25	0	1	1	24	134492	134516	5.17E-06	39.9	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|134652-134652	ScVcwli_3172	96	25	0	1	1	24	74462	74438	5.17E-06	39.9	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|134659-134659	ScVcwli_3172	96	25	0	1	1	25	74455	74432	5.75E-06	39.9	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|134714-134714	ScVcwli_3172	96.154	26	0	1	1	25	74400	74375	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|134718-134718	ScVcwli_3172	96.154	26	0	1	1	25	306475	306450	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|134730-134730	ScVcwli_3172	96.154	26	0	1	1	25	306461	306436	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|134735-134735	ScVcwli_3172	96.154	26	0	1	1	25	306456	306431	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|134745-134745	ScVcwli_3172	96	25	0	1	1	24	134601	134625	5.17E-06	39.9	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|135115-135115	ScVcwli_3172	96	25	0	1	1	24	73995	73971	5.17E-06	39.9	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|135121-135121	ScVcwli_3172	96	25	0	1	1	25	73989	73966	5.75E-06	39.9	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|138567-138567	ScVcwli_3172	96	25	1	0	1	25	71195	71171	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|192312-192312	ScVcwli_3172	96	25	1	0	1	25	192165	192189	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3172|192318-192318	ScVcwli_3172	96	25	1	0	1	25	192171	192195	1.60E-06	41.7	Only 1 or few has Illumina support but no RNAseq support. Based on MCOT CT
+ScVcwli_3402|395641-395641	ScVcwli_3402	96	25	1	0	1	25	395664	395688	8.03E-07	43.6	Changed to T
