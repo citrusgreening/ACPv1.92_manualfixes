@@ -1,0 +1,55 @@
+BLASTN 2.6.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: User specified sequence set (Input: contig.fasta).
+           1 sequences; 589,538 total letters
+
+
+
+Query= ScVcwli_3172|134745-134745
+
+Length=24
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ScVcwli_3172                                                        39.9    5e-06
+
+
+> ScVcwli_3172
+Length=589538
+
+ Score = 39.9 bits (21),  Expect = 5e-06
+ Identities = 24/25 (96%), Gaps = 1/25 (4%)
+ Strand=Plus/Plus
+
+Query  1       TTCTCACTAGCAGG-TGAGGTATCT  24
+               |||||||||||||| ||||||||||
+Sbjct  134601  TTCTCACTAGCAGGGTGAGGTATCT  134625
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5305707
+
+
+  Database: User specified sequence set (Input: contig.fasta).
+    Posted date:  Unknown
+  Number of letters in database: 589,538
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5
