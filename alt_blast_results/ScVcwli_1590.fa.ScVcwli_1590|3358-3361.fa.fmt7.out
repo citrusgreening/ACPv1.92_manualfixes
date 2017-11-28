@@ -1,0 +1,7 @@
+# BLASTN 2.6.0+
+# Query: ScVcwli_1590|3358-3361
+# Database: User specified sequence set (Input: contig.fasta)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ScVcwli_1590|3358-3361	ScVcwli_1590	85.714	28	0	2	1	24	3346	3373	0.002	27.0
+# BLAST processed 1 queries
